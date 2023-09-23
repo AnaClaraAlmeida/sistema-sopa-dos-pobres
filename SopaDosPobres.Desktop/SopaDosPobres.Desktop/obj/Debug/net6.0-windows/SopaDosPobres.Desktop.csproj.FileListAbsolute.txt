@@ -1,0 +1,17 @@
+C:\Users\anacl\Documents\Estudos\ADS\Periodo3\PIEX\SopaDosPobres.Desktop\SopaDosPobres.Desktop\bin\Debug\net6.0-windows\SopaDosPobres.Desktop.exe
+C:\Users\anacl\Documents\Estudos\ADS\Periodo3\PIEX\SopaDosPobres.Desktop\SopaDosPobres.Desktop\bin\Debug\net6.0-windows\SopaDosPobres.Desktop.deps.json
+C:\Users\anacl\Documents\Estudos\ADS\Periodo3\PIEX\SopaDosPobres.Desktop\SopaDosPobres.Desktop\bin\Debug\net6.0-windows\SopaDosPobres.Desktop.runtimeconfig.json
+C:\Users\anacl\Documents\Estudos\ADS\Periodo3\PIEX\SopaDosPobres.Desktop\SopaDosPobres.Desktop\bin\Debug\net6.0-windows\SopaDosPobres.Desktop.dll
+C:\Users\anacl\Documents\Estudos\ADS\Periodo3\PIEX\SopaDosPobres.Desktop\SopaDosPobres.Desktop\bin\Debug\net6.0-windows\SopaDosPobres.Desktop.pdb
+C:\Users\anacl\Documents\Estudos\ADS\Periodo3\PIEX\SopaDosPobres.Desktop\SopaDosPobres.Desktop\obj\Debug\net6.0-windows\SopaDosPobres.Desktop.csproj.AssemblyReference.cache
+C:\Users\anacl\Documents\Estudos\ADS\Periodo3\PIEX\SopaDosPobres.Desktop\SopaDosPobres.Desktop\obj\Debug\net6.0-windows\SopaDosPobres.Desktop.Form1.resources
+C:\Users\anacl\Documents\Estudos\ADS\Periodo3\PIEX\SopaDosPobres.Desktop\SopaDosPobres.Desktop\obj\Debug\net6.0-windows\SopaDosPobres.Desktop.csproj.GenerateResource.cache
+C:\Users\anacl\Documents\Estudos\ADS\Periodo3\PIEX\SopaDosPobres.Desktop\SopaDosPobres.Desktop\obj\Debug\net6.0-windows\SopaDosPobres.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anacl\Documents\Estudos\ADS\Periodo3\PIEX\SopaDosPobres.Desktop\SopaDosPobres.Desktop\obj\Debug\net6.0-windows\SopaDosPobres.Desktop.AssemblyInfoInputs.cache
+C:\Users\anacl\Documents\Estudos\ADS\Periodo3\PIEX\SopaDosPobres.Desktop\SopaDosPobres.Desktop\obj\Debug\net6.0-windows\SopaDosPobres.Desktop.AssemblyInfo.cs
+C:\Users\anacl\Documents\Estudos\ADS\Periodo3\PIEX\SopaDosPobres.Desktop\SopaDosPobres.Desktop\obj\Debug\net6.0-windows\SopaDosPobres.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\anacl\Documents\Estudos\ADS\Periodo3\PIEX\SopaDosPobres.Desktop\SopaDosPobres.Desktop\obj\Debug\net6.0-windows\SopaDosPobres.Desktop.dll
+C:\Users\anacl\Documents\Estudos\ADS\Periodo3\PIEX\SopaDosPobres.Desktop\SopaDosPobres.Desktop\obj\Debug\net6.0-windows\refint\SopaDosPobres.Desktop.dll
+C:\Users\anacl\Documents\Estudos\ADS\Periodo3\PIEX\SopaDosPobres.Desktop\SopaDosPobres.Desktop\obj\Debug\net6.0-windows\SopaDosPobres.Desktop.pdb
+C:\Users\anacl\Documents\Estudos\ADS\Periodo3\PIEX\SopaDosPobres.Desktop\SopaDosPobres.Desktop\obj\Debug\net6.0-windows\SopaDosPobres.Desktop.genruntimeconfig.cache
+C:\Users\anacl\Documents\Estudos\ADS\Periodo3\PIEX\SopaDosPobres.Desktop\SopaDosPobres.Desktop\obj\Debug\net6.0-windows\ref\SopaDosPobres.Desktop.dll
